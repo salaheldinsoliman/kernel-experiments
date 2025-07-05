@@ -1,0 +1,36 @@
+
+=== compute_bound ===
+Elapsed time: 6.73 seconds
+Elapsed time: 7.03 seconds
+Elapsed time: 7.05 seconds
+>> Scheduler ranking for compute_bound:
+SCHED_OTHER 6.73
+SCHED_FIFO 7.03
+SCHED_RR 7.05
+
+=== memory_bound ===
+Elapsed time: 0.56 seconds
+Elapsed time: 0.55 seconds
+Elapsed time: 0.55 seconds
+>> Scheduler ranking for memory_bound:
+SCHED_FIFO 0.55
+SCHED_RR 0.55
+SCHED_OTHER 0.56
+
+=== io_bound ===
+Elapsed time: 1.51 seconds
+Elapsed time: 1.45 seconds
+Elapsed time: 1.38 seconds
+>> Scheduler ranking for io_bound:
+SCHED_RR 1.38
+SCHED_FIFO 1.45
+SCHED_OTHER 1.51
+
+=== mixed ===
+Elapsed time: 0.16 seconds
+Elapsed time: 0.16 seconds
+Elapsed time: 0.16 seconds
+>> Scheduler ranking for mixed:
+SCHED_FIFO 0.16
+SCHED_OTHER 0.16
+SCHED_RR 0.16
