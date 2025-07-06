@@ -1,0 +1,5 @@
+Experiment started at: Sun Jul  6 04:15:48 PM CEST 2025
+=== Stable Run ===
+Stable workload completed in 15.791380 seconds
+=== Interrupt Run ===
+Interrupt workload completed in 5.396742 seconds
