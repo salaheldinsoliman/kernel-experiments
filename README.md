@@ -7,5 +7,6 @@ These experiments aim to systematically evaluate how different Linux kernel conf
 Current experiments include:
 - **Tickless Kernel Experiment**
 - **Scheduler Policy Experiment on CFS**
+- **Pre-emption model choice**
 
 More experiments will be added as this project evolves.
